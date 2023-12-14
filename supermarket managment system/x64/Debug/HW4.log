@@ -1,0 +1,14 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (HW4.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Address.c
+  Customer.c
+  fileHelper.c
+  General.c
+  GeneralList.c
+  main.c
+  Product.c
+  ShoppingCart.c
+  ShoppingItem.c
+  SuperFile.c
+  Supermarket.c
+  Generating Code...
+  HW4.vcxproj -> C:\Users\hadar\Desktop\git\supermarket managment system\x64\Debug\Supermarket Managment System.exe
